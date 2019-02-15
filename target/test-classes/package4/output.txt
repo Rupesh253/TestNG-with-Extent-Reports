@@ -1,0 +1,16 @@
+[RemoteTestNG] detected TestNG version 6.14.2
+	 	 	 	 method1_in_Class1_in_package4()
+	 	 	 	 method2_in_Class2_in_package4()
+	 	 	 	 method3_in_Class3_in_package4()
+	 	 	 	 method2_in_Class1_in_package4()
+	 	 	 	 method1_in_Class2_in_package4()
+	 	 	 	 method2_in_Class3_in_package4()
+	 	 	 	 method3_in_Class1_in_package4()
+	 	 	 	 method3_in_Class2_in_package4()
+	 	 	 	 method1_in_Class3_in_package4()
+
+===============================================
+TestNG Suite
+Total tests run: 9, Failures: 1, Skips: 0
+===============================================
+
